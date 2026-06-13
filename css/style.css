@@ -87,6 +87,11 @@ label input {
 #lesbian { background-image: url(../img/lesbian.png); }
 #gay-men { background-image: url(../img/gay-men.png); }
 #bisexual { background-image: url(../img/bisexual.png); }
+#almondsexual { background-image: url(../img/almondsexual.png); }
+#berrisexual { background-image: url(../img/berrisexual.png); }
+#neptunic { background-image: url(../img/neptunic.png); }
+#uranic { background-image: url(../img/uranic.png); }
+#abrosexual { background-image: url(../img/abrosexual.png); }
 #pansexual { background-image: url(../img/pansexual.png); }
 #polysexual { background-image: url(../img/polysexual.png); }
 #omnisexual { background-image: url(../img/omnisexual.png); }
@@ -102,10 +107,14 @@ label input {
 #trans { background-image: url(../img/trans.png); }
 #agender { background-image: url(../img/agender.png); }
 #bigender { background-image: url(../img/bigender.png); }
+#demigender { background-image: url(../img/demigender.png); }
 #demiboy { background-image: url(../img/demiboy.png); }
 #demigirl { background-image: url(../img/demigirl.png); }
 #genderfluid { background-image: url(../img/genderfluid.png); }
 #genderflux { background-image: url(../img/genderflux.png); }
+#genderfae { background-image: url(../img/genderfae.png); }
+#genderfaun { background-image: url(../img/genderfaun.png); }
+#genderflor { background-image: url(../img/genderflor.png); }
 #genderqueer { background-image: url(../img/genderqueer.png); }
 #pangender { background-image: url(../img/pangender.png); }
 #non-binary { background-image: url(../img/non-binary.png); }
